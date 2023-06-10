@@ -1,6 +1,5 @@
 # [Lung-Cancer-Prediction-Project](https://github.com/Nwuguru-Chidiebere-Sullivan/Lung-Cancer-Prediction-Project/blob/main/Lung_Cancer_Prediction.ipynb)
-
-![title]https:(/image/lung_cancer.jpg)
+![](/image/lung_cancer.jpg)
 
 **CONTEXT:** 
 The essence of cancer prediction project is to help the patients and everyone in totality to know their cancer risk with low cost, thereby helpimg the people to take the appropriate decision based on their cancer risk status. The data is collected from the website online lung cancer prediction system, however, I downloaded from Kaggle.
