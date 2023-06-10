@@ -2,7 +2,7 @@
 ![](/image/lung_cancer.jpg)
 
 **CONTEXT:** 
-The essence of cancer prediction project is to help the patients and everyone in totality to know their cancer risk, thereby helpig the people to take the appropriate decision based on their cancer risk status. The data is collected from the website online lung cancer prediction system, however, I downloaded it from Kaggle.
+The essence of cancer prediction project is to help the patients and everyone in totality to know their cancer risk, thereby helping the people to take the appropriate decision based on their cancer risk status. The data is collected from the website online lung cancer prediction system, however, I downloaded it from Kaggle.
 
 **AIM:**
 This project is aimed at analysing the factors that can lead to lung cancer, predicting whether or not a patient is at the risk of lung cancer through various classification algorithms, and thereafter, employing an Ensembler, precisely, voting classifier to combine these classification algorithms and output a better result.
