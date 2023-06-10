@@ -8,6 +8,7 @@ The essence of cancer prediction project is to help the patients and everyone in
 This project is aimed at analysing the factors that can lead to lung cancer, predicting whether or not a patient is at the risk of lung cancer through various classification algorithms, and thereafter, employing an Ensembler, precisely, voting classifier to combine these classification algorithms and output a better result.
 
 *Total number of attributes:* 16
+
 *Number of instances:* 284
 
 **ATTRIBUTE INFORMATION:**
